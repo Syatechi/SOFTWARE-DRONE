@@ -1,0 +1,16 @@
+{
+  "programa": {
+    "version": "1.0.0",
+    "fecha": "2026-08-19",
+    "url": "https://github.com/Syatechi/SOFTWARE-DRONE/releases/download/v1.0.0/SYATECHI_Setup_1.0.0.exe",
+    "sha256": "",
+    "notas": "Version inicial."
+  },
+  "modelo": {
+    "version": "1",
+    "fecha": "2026-08-19",
+    "url": "https://github.com/Syatechi/SOFTWARE-DRONE/releases/download/modelo-v1/modelo_v1.zip",
+    "sha256": "",
+    "notas": "Modelo base YOLOv8s."
+  }
+}
